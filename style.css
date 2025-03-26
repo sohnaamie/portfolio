@@ -68,9 +68,15 @@
     margin: 10px;
   }
 
-  h1{
-    font-size:medium;
-  }
+ .h1-item{
+  font-size: small;
+  
+ }
+ h2{
+  font-size: small;
+  margin-top: 10px;
+  margin-bottom: 10px;
+ }
 
    .home{
     background-color: rgb(236, 240, 241);
