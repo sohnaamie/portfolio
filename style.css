@@ -2,6 +2,9 @@
        padding: 0;
        margin: 0;
    }
+   body{
+    font-family: Roboto, sans-serif;
+   }
 
    .nav-items {
        background-color: rgb(44, 62, 80);
