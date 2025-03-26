@@ -1,0 +1,104 @@
+   * {
+       padding: 0;
+       margin: 0;
+   }
+
+   .nav-items {
+       background-color: rgb(44, 62, 80);
+       color: white;
+       padding: 20px 0px;
+
+   }
+
+   nav ul {
+       list-style-type: none;
+
+   }
+
+    nav ul li { 
+       display: inline;
+       margin: 0 15px;
+   }
+
+   nav ul li a {
+       color: white;
+       font-size: 18px;
+       
+   }
+   nav a:hover{
+    background-color: rgb(28, 28, 23);
+    font-weight: 900px;
+       border-radius: 6px;
+       padding: 10px;
+   }
+
+   ul {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       gap: 30px;
+      
+   }
+
+   section{
+    margin-top: 40px;
+   }
+
+  header{
+    
+    font-size: 1.8em;
+    font-weight: 500;
+    margin: 10px;
+    color: black;
+
+    
+  }
+
+  
+
+  .the-main{
+    margin: 0 20px;
+    margin-left: 250px;
+  }
+
+  p{
+    margin: 10px;
+  }
+
+  h1{
+    font-size:medium;
+  }
+
+   .home{
+    background-color: rgb(236, 240, 241);
+  }
+
+  .about{
+    gap: 20px;
+    background-color: rgb(247, 247, 242);
+     
+   }
+
+   .projects{
+    background-color: rgb(236, 240, 241);
+   }
+
+   .project-section{
+    margin-bottom:  40px;
+   }
+
+   .contact{
+    background-color: rgb(247, 247, 242);
+    margin-bottom: 30px;
+   }
+  
+
+   footer{
+    background-color:  rgb(44, 62, 80);
+    margin-left: 250px;
+    color: white;
+   }
+
+   
+
+  
